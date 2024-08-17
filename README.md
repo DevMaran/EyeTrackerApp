@@ -1,2 +1,2 @@
 # EyeTrackerApp
-Tracing Eyes 
+Tracking Eyes 
